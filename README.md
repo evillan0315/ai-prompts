@@ -1,7 +1,3 @@
-Here's the updated version of your AI coding instructions with **Vite 7** as the baseline and a few modernizations for your current stack.
-
----
-
 # AI Coding Instructions
 
 ## Primary Technology Stack
@@ -449,4 +445,3 @@ Unless instructed otherwise, assume:
 * npm as the package manager
 * Modern evergreen browsers with ES2022+ support
 
-These assumptions should be the baseline for all generated code unless the project explicitly specifies a different stack.
